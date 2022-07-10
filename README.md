@@ -1,8 +1,8 @@
- #Hey, I'm R Lipika 👧
+ # Hey, I'm R Lipika 👧
  ---------------------------------------------------------------------
-# Currently seeking Data Analyst/Business Analyst/Product Analyst roles.
+## Currently seeking Data Analyst/Business Analyst/Product Analyst roles.
 
-# [Resume Link:](C:\Users\Administrator\Downloads\R_Lipika_Resume.pdf)
+## [Resume Link:](C:\Users\Administrator\Downloads\R_Lipika_Resume.pdf)
 
 <!---
 Lipika824/Lipika824 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
