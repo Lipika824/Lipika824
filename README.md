@@ -1,4 +1,5 @@
-                                    # Hey, I'm R Lipika 
+
+ 
  ### Currently seeking for Data Analyst/Business Analyst/Product Analyst roles.                      Learning innovative tecniques to extract insights from data everyday.
 
 
